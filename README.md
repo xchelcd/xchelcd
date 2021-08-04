@@ -9,3 +9,7 @@
 [![Android](https://img.shields.io/badge/JAVA-cf152b?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
+[![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
+</br>
+[![PHP](https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white&labelColor=black)]()
+</br>
