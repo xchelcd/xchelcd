@@ -16,6 +16,6 @@
 </br>
 
 ## Apps:
-[![AppStore](https://img.shields.io/badge/AppStore-007bff?style=for-the-badge&logo=AppStore&logoColor=white&labelColor=101010)](https://apps.apple.com/mx/developer/xchel-alonso-carranza-de-la-o/id1534657795?itsct=apps_box_badge&amp;itscg=30200)
+[![AppStore](https://img.shields.io/badge/App_Store-007bff?style=for-the-badge&logo=AppStore&logoColor=white&labelColor=101010)](https://apps.apple.com/mx/developer/xchel-alonso-carranza-de-la-o/id1534657795?itsct=apps_box_badge&amp;itscg=30200)
 </br>
-[![GooglePlay](https://img.shields.io/badge/GooglePlay-FFFFFF?style=for-the-badge&logo=GooglePlay&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/developer?id=IDAX&hl=es_MX&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+[![GooglePlay](https://img.shields.io/badge/Google_Play-FFFFFF?style=for-the-badge&logo=GooglePlay&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/developer?id=IDAX&hl=es_MX&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
